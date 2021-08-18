@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.d58bcf78.chunk.css",
+    "main.js": "/portafolio/static/js/main.d374f077.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.d374f077.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.bce6a2d1.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.bce6a2d1.js.map",
+    "static/css/2.4be38407.chunk.css": "/portafolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.51b2ef02.chunk.js": "/portafolio/static/js/2.51b2ef02.chunk.js",
+    "static/js/2.51b2ef02.chunk.js.map": "/portafolio/static/js/2.51b2ef02.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/portafolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d58bcf78.chunk.css.map": "/portafolio/static/css/main.d58bcf78.chunk.css.map",
+    "static/js/2.51b2ef02.chunk.js.LICENSE.txt": "/portafolio/static/js/2.51b2ef02.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portafolio/static/media/background-image.10162b61.jpg",
+    "static/media/css.ea98e665.svg": "/portafolio/static/media/css.ea98e665.svg",
+    "static/media/designThinking.19fff6b9.jpg": "/portafolio/static/media/designThinking.19fff6b9.jpg",
+    "static/media/html.9621a4a4.svg": "/portafolio/static/media/html.9621a4a4.svg",
+    "static/media/javaScript.5b1939d1.svg": "/portafolio/static/media/javaScript.5b1939d1.svg",
+    "static/media/mysql.bd4d7a6f.svg": "/portafolio/static/media/mysql.bd4d7a6f.svg",
+    "static/media/programacion.f53694e1.jpg": "/portafolio/static/media/programacion.f53694e1.jpg",
+    "static/media/python.542b4afc.svg": "/portafolio/static/media/python.542b4afc.svg",
+    "static/media/react.4b762ae5.svg": "/portafolio/static/media/react.4b762ae5.svg",
+    "static/media/shrek.9c5a7b66.jpg": "/portafolio/static/media/shrek.9c5a7b66.jpg",
+    "static/media/software.eb4a9f09.jpg": "/portafolio/static/media/software.eb4a9f09.jpg",
+    "static/media/studying.0c433cf1.svg": "/portafolio/static/media/studying.0c433cf1.svg",
+    "static/media/working.f0c6138b.svg": "/portafolio/static/media/working.f0c6138b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce6a2d1.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.51b2ef02.chunk.js",
+    "static/css/main.d58bcf78.chunk.css",
+    "static/js/main.d374f077.chunk.js"
+  ]
+}
