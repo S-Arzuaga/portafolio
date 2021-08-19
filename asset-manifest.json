@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.d58bcf78.chunk.css",
-    "main.js": "/portafolio/static/js/main.4fa97f85.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.4fa97f85.chunk.js.map",
+    "main.css": "/portafolio/static/css/main.86bd8a4f.chunk.css",
+    "main.js": "/portafolio/static/js/main.473ca5d8.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.473ca5d8.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.bce6a2d1.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.bce6a2d1.js.map",
     "static/css/2.4be38407.chunk.css": "/portafolio/static/css/2.4be38407.chunk.css",
@@ -10,8 +10,9 @@
     "static/js/2.51b2ef02.chunk.js.map": "/portafolio/static/js/2.51b2ef02.chunk.js.map",
     "index.html": "/portafolio/index.html",
     "static/css/2.4be38407.chunk.css.map": "/portafolio/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.d58bcf78.chunk.css.map": "/portafolio/static/css/main.d58bcf78.chunk.css.map",
+    "static/css/main.86bd8a4f.chunk.css.map": "/portafolio/static/css/main.86bd8a4f.chunk.css.map",
     "static/js/2.51b2ef02.chunk.js.LICENSE.txt": "/portafolio/static/js/2.51b2ef02.chunk.js.LICENSE.txt",
+    "static/media/agendaWeb.c4651b16.png": "/portafolio/static/media/agendaWeb.c4651b16.png",
     "static/media/App.css": "/portafolio/static/media/background-image.10162b61.jpg",
     "static/media/css.ea98e665.svg": "/portafolio/static/media/css.ea98e665.svg",
     "static/media/designThinking.19fff6b9.jpg": "/portafolio/static/media/designThinking.19fff6b9.jpg",
@@ -30,7 +31,7 @@
     "static/js/runtime-main.bce6a2d1.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.51b2ef02.chunk.js",
-    "static/css/main.d58bcf78.chunk.css",
-    "static/js/main.4fa97f85.chunk.js"
+    "static/css/main.86bd8a4f.chunk.css",
+    "static/js/main.473ca5d8.chunk.js"
   ]
 }
